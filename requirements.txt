@@ -1,0 +1,8 @@
+streamlit
+tensorflow==2.10.1
+numpy==1.23.5
+mtcnn==0.1.1
+opencv-python-headless
+Pillow
+h5py
+setuptools<81

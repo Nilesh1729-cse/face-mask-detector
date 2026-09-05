@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.idea/
+*.pyc
+face_mask_detector.h5
