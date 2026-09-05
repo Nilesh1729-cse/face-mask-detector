@@ -4,4 +4,3 @@ __pycache__/
 venv/
 .idea/
 *.pyc
-face_mask_detector.h5
